@@ -10,7 +10,7 @@ const ProfilePage: React.FC = () => {
           <p className="text-gray-600">
             Name: John Doe
             <br />
-            Email: john@example.com
+            Mobile: +256 (555) 123-456
             <br />
             Membership: Premium
           </p>
